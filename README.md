@@ -53,12 +53,10 @@ server.serve_forever()
 ```
 
 ## OUTPUT:
-The web page is displayed successfully in the browser at http://127.0.0.1:8000.
 
 <img width="1566" height="1010" alt="Output" src="https://github.com/user-attachments/assets/f68e50d7-0e4c-4d2a-995a-f8a172c5dc29" />
 
-## RESULT:
-The program for implementing simple webserver is executed successfully.
+The web page is displayed successfully in the browser at http://127.0.0.1:8000.
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
