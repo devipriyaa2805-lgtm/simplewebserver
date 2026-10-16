@@ -1,11 +1,11 @@
 # EX01 Developing a Simple Webserver
-## Date:
+## Date: 16-10-2026
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the list of protocols in TCP/IP Protocol Suite.
 
 ## DESIGN STEPS:
-### Step 1: 
+### Step 1:
 HTML content creation.
 
 ### Step 2:
@@ -33,13 +33,12 @@ Serve the HTML pages.
 Start the server script and check for errors.
 
 ### Step 10:
-Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
-
-## PROGRAM:
-
+Open a browser and navigate to http://127.0.0.1:8000.
 
 ## OUTPUT:
+The web page is displayed successfully in the browser at http://127.0.0.1:8000.
 
+<img width="1566" height="1010" alt="Output" src="https://github.com/user-attachments/assets/abf0b2c8-f8cf-4c5d-a3cf-471ef64264ba" />
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
